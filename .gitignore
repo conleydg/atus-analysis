@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.envrc
+.direnv
+__pycache__
+*.pyc
