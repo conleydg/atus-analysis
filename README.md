@@ -1,4 +1,4 @@
-# atus-analysis
+# Atus-Analysis
 
 ##Analyzing U.S. Department of Labor's data on Americans' time use
 
